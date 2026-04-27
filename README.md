@@ -476,4 +476,4 @@ Writing clean, maintainable, and modular code
 Testing features thoroughly before deployment
 
 Contact 
-Nikita - rathinikki36@gmsil.com  - 
+Nikita - rathinikki36@gmail.com  - 
